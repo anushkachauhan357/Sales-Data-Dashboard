@@ -1,3 +1,21 @@
+-- ============================================
+-- Sales Data Analysis Queries (MySQL)
+-- File: SQL_queries.sql
+-- Description: This file contains analytical SQL queries 
+--              used for generating dashboard insights.
+-- Note: Data import and preprocessing were handled separately in MySQL.
+-- Author: Anushka Chauhan
+-- ============================================
+
+-- Query 1: Total Sales by Region
+SELECT region, SUM(total_amount) AS total_sales
+FROM sales_data
+GROUP BY region;
+
+-- Query 2: Monthly Sales Trends
+...
+
+
 -- Query 1: Total Sales and Total Profit
 SELECT 
     ROUND(SUM(Sales), 2) AS Total_Sales,
