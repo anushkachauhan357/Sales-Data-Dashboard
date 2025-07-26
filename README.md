@@ -6,7 +6,7 @@ This project showcases a **Sales Data Analysis Dashboard** built using **MySQL**
 - Extracted and filtered data using **SQL queries**
 - Cleaned and transformed data in **Excel**
 - Created dynamic **PivotTables** and **charts**
-- Designed an interactive **dashboard** with slicers for filtering by region, category, and time
+- Designed an interactive **dashboard** representing essential information about the data
 
 ## 🛠 Tools & Technologies
 - **MySQL** – Data extraction and filtering
