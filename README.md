@@ -1,2 +1,22 @@
-# Sales-Data-Dashboard
-As part of my learning journey in data analytics, I built an interactive Sales Data Analysis Dashboard using MySQL for data extraction and Microsoft Excel for data visualization. The dashboard visualizes key business metrics including total sales, profit trends, regional performance, top-selling products, and customer segmentation.
+# 📊 Sales Data Analysis Dashboard
+
+This project showcases a **Sales Data Analysis Dashboard** built using **MySQL** and **Excel**. It analyzes key business metrics like total sales, regional performance, top-selling products, and monthly trends to uncover actionable insights.
+
+## 🚀 Features
+- Extracted and filtered data using **SQL queries**
+- Cleaned and transformed data in **Excel**
+- Created dynamic **PivotTables** and **charts**
+- Designed an interactive **dashboard** with slicers for filtering by region, category, and time
+
+## 🛠 Tools & Technologies
+- **MySQL** – Data extraction and filtering
+- **Excel** – Data cleaning, transformation, and visualization
+
+## 📄 Full Dashboard PDF
+- CLICK HERE TO VIEW THE FULL DASHBOARD ()
+
+## 📈 Key Insights
+- Top 5 products by revenue
+- Profit trends over time
+- Sales performance across regions
+- Customer segments contributing to revenue
