@@ -13,7 +13,7 @@ This project showcases a **Sales Data Analysis Dashboard** built using **MySQL**
 - **Excel** – Data cleaning, transformation, and visualization
 
 ## 📄 Full Dashboard PDF
-- CLICK HERE TO VIEW THE FULL DASHBOARD ()
+- [CLICK HERE TO VIEW THE FULL DASHBOARD](sales_dashboard.pdf)
 
 ## 📈 Key Insights
 - Total sales and toatl profit
