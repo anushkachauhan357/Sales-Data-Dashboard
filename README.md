@@ -16,7 +16,11 @@ This project showcases a **Sales Data Analysis Dashboard** built using **MySQL**
 - CLICK HERE TO VIEW THE FULL DASHBOARD ()
 
 ## 📈 Key Insights
-- Top 5 products by revenue
-- Profit trends over time
-- Sales performance across regions
-- Customer segments contributing to revenue
+- Total sales and toatl profit
+- Customer segmentation by total spending
+- Monthly sales trend
+- Top 5 selling products
+- Category and sub-category sales breakdown
+- Profit margin by category
+- Region-wise total sales
+- Discount impact on profit
