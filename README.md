@@ -12,6 +12,9 @@ This project showcases a **Sales Data Analysis Dashboard** built using **MySQL**
 - **MySQL** – Data extraction and filtering
 - **Excel** – Data cleaning, transformation, and visualization
 
+## 🧠 SQL Queries Used
+You can find all SQL queries used in this project in the [SQL_queries.sql](SQL_queries.sql) file.
+
 ## 📄 Full Dashboard PDF
 - [CLICK HERE TO VIEW THE FULL DASHBOARD](sales_dashboard.pdf)
 
