@@ -1,6 +1,6 @@
 # 📊 Sales Data Analysis Dashboard
 
-This project showcases a **Sales Data Analysis Dashboard** built using **MySQL** and **Excel**. It analyzes key business metrics like total sales, regional performance, top-selling products, and monthly trends to uncover actionable insights.
+This project showcases a **Sales Data Analysis Dashboard** built using **SQL** and **Excel**. It analyzes key business metrics like total sales, regional performance, top-selling products, and monthly trends to uncover actionable insights.
 
 ## 🚀 Features
 - Extracted and filtered data using **SQL queries**
@@ -9,7 +9,7 @@ This project showcases a **Sales Data Analysis Dashboard** built using **MySQL**
 - Designed an interactive **dashboard** representing essential information about the data
 
 ## 🛠 Tools & Technologies
-- **MySQL** – Data extraction and filtering
+- **SQL** – Data extraction and filtering
 - **Excel** – Data cleaning, transformation, and visualization
 
 ## 🧠 SQL Queries Used
